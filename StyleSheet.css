@@ -1,7 +1,13 @@
-﻿#logo {
+﻿body {
+   
+}
+#logo {
     font-family: 'Oswald', sans-serif;
     color:#FFF0D7;
 }
-nav.navbar.navbar-default {
-    background-color:blue;
+nav.navbar.navbar-static-top {
+    background-color:#474E5D;
+}
+nav.navbar.navbar-static-top a {
+    color:#FFF0D7;
 }
