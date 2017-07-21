@@ -42,9 +42,9 @@ div.page-header {
     margin-top:0;
     /*height:150px;*/
 }
-h1#locationsHeader {
+div.page-header {
     margin-top:0;
-    padding-top:20px;
+    padding-top:10px;
     background-color:#474E5D;
 }
 img#location1 {
@@ -81,4 +81,36 @@ div.jumbotron.location2 {
 p.locationsText2 {
     font-size:12px;
     color:#FFF0D7;
+}
+
+/*Ammenities styling*/
+/*.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}*/
+/*div#ammen1 {
+    background-image:url(Images/3b-348x348.jpg);
+    background-size:cover;
+}
+div#ammen3 {
+    background-image:url(Images/42-348x348.jpg);
+    background-size:cover;
+}*/
+div.col-sm-6.col-md-4.ammen2 {
+    text-align:center;
+    padding-top:30px;
+}
+/*div.ammen1 {
+    background-image:url(Images/3b-348x348.jpg);
+    background-size:cover;
+}*/
+div.thumbnail {
+    border:none;
+    box-shadow:none;
 }
