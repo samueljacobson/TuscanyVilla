@@ -1,13 +1,33 @@
 ﻿body {
    
 }
+/*Navbar styling*/
 #logo {
     font-family: 'Oswald', sans-serif;
     color:#FFF0D7;
 }
 nav.navbar.navbar-static-top {
     background-color:#474E5D;
+    margin-bottom:0;
 }
 nav.navbar.navbar-static-top a {
     color:#FFF0D7;
 }
+
+/*Jumbotron styling*/
+div.jumbotron.main {
+    color:#FFF0D7;
+    padding:0;
+    /*height:372px;*/
+    background-image:url(Images/tuscany-villas-sant-anna.jpg);
+    background-size:auto;
+    /*background-image:url(Images/Versilia.jpg);
+    background-size:auto;*/
+    }
+img#map {
+    padding:0;
+    margin-right:0;
+}
+/*div.col-md-3 {
+    padding:0;
+}*/
