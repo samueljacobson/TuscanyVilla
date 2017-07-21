@@ -1,2 +1,7 @@
-﻿body {
+﻿#logo {
+    font-family: 'Oswald', sans-serif;
+    color:#FFF0D7;
+}
+nav.navbar.navbar-default {
+    background-color:blue;
 }
