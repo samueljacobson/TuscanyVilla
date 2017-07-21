@@ -114,3 +114,15 @@ div.thumbnail {
     border:none;
     box-shadow:none;
 }
+
+/*Reviews styling*/
+/*div#reviewsHeader {
+    padding-bottom:130px;
+}*/
+div#myCarousel {
+    padding-top:150px;
+
+}
+div.carousel-caption {
+    color:#474E5D;
+}
