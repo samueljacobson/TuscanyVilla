@@ -92,6 +92,12 @@ a#buttonLoc2.btn.btn-primary.btn-lg.active {
 }
 
 /*Ammenities styling*/
+div.row.ammenTop {
+    padding-top:30px;
+}
+div.row.ammenBottom {
+    padding-bottom:30px;
+}
 /*.thumbnail {
     position: relative;
 }
