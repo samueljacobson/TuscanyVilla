@@ -119,12 +119,23 @@ div.thumbnail {
 /*div#reviewsHeader {
     padding-bottom:130px;
 }*/
-div#myCarousel {
-    padding-top:150px;
+/*div#myCarousel.carousel.slide {
+    padding-top:100px;
 
-}
+}*/
 div.carousel-caption {
     color:#474E5D;
+    text-align:center;
+    position:static;
+    padding-bottom:10px;
+       
+}
+.carousel-indicators {
+    padding-top:20px;
+}
+div.carousel-inner {
+    position:center;
+    padding-bottom:20px;
 }
 
 /*Contact styling*/
