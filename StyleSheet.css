@@ -13,6 +13,9 @@ nav.navbar.navbar-static-top {
 nav.navbar.navbar-static-top a {
     color:#FFF0D7;
 }
+nav.navbar.navbar-static-top a:hover {
+    color:black;
+}
 
 /*Jumbotron styling*/
 div.jumbotron.main {
